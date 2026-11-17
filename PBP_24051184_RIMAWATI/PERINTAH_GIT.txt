@@ -1,8 +1,0 @@
-git config --global user.name "Rimawati"
-git config --global user.email "emailkamu@example.com"
-git clone https://github.com/rimawatirowr/PBP_24051184_RIMAWATI.git
-cd PBP_24051184_RIMAWATI
-# salin semua file ke folder ini, lalu:
-git add .
-git commit -m "Pertemuan 1: Setup environment dan hello world 3 platform"
-git push origin main
